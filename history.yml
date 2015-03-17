@@ -1,0 +1,37 @@
+---
+cmrr: |+
+  data: {"current":48836,"id":"cmrr","updatedAt":1426598507}
+
+cmrr_total: |+
+  data: {"current":[{"cmrr":"2500"}],"id":"cmrr_total","updatedAt":1425075897}
+
+count_by_type: |+
+  data: {"items":[{"label":"Historical Societies, Historic Preservation","value":"16880"},{"label":"Uncategorized or General Museums","value":"11617"},{"label":"History Museums","value":"2636"},{"label":"Art Museums","value":"1589"},{"label":"Arboretums, Botanical Gardens, \u0026 Nature Centers","value":"861"},{"label":"Zoos, Aquariums, \u0026 Wildlife Conservation","value":"494"},{"label":"Science \u0026 Technology Museums \u0026 Planetariums","value":"399"},{"label":"Children's Museums","value":"367"},{"label":"Natural History \u0026 Natural Science Museums","value":"301"}],"id":"count_by_type","updatedAt":1425080088}
+
+total_museums: |+
+  data: {"current":35144,"id":"total_museums","updatedAt":1425076679}
+
+total_nonprofit: |+
+  data: {"current":"28480","id":"total_nonprofit","updatedAt":1425080090}
+
+percent_nonprofit: |+
+  data: {"value":81,"id":"percent_nonprofit","updatedAt":1425076681}
+
+count_by_state: |+
+  data: {"items":[{"label":"CA","value":"2950"},{"label":"NY","value":"2423"},{"label":"TX","value":"2034"},{"label":"PA","value":"1690"},{"label":"OH","value":"1424"},{"label":"IL","value":"1359"},{"label":"FL","value":"1284"},{"label":"MI","value":"1097"},{"label":"..."},{"label":"RI","value":"209"},{"label":"ID","value":"205"},{"label":"NV","value":"200"},{"label":"WY","value":"189"},{"label":"HI","value":"189"},{"label":"ND","value":"179"},{"label":"AK","value":"169"},{"label":"DE","value":"152"}],"id":"count_by_state","updatedAt":1425076683}
+
+total_customers: |+
+  data: {"current":18,"id":"total_customers","updatedAt":1426598505}
+
+customer_name: |+
+  data: {"items":[{"label":"London Borough of Camden","value":"1"},{"label":"Bath Hacked","value":"1"},{"label":"CDP","value":"1"},{"label":"Cheshire East Council","value":"1"},{"label":"Bristol City Council","value":"1"},{"label":"Gava","value":"1"},{"label":"Gijon","value":"1"},{"label":"Granollers","value":"1"},{"label":"Rubi","value":"1"},{"label":"ETHOS","value":"1"},{"label":"Surrey County Council","value":"1"},{"label":"West Sussex County Council","value":"1"},{"label":"Eindhoven","value":"1"},{"label":"RDW","value":"1"},{"label":"Regione Lombardia","value":"1"},{"label":"Regione Friuli","value":"1"},{"label":"European Commission","value":"1"}],"id":"customer_name","updatedAt":1425244645}
+
+state: |+
+  data: {"items":[{"label":"United Kingdom","value":"7"},{"label":"Spain","value":"4"},{"label":"Italy","value":"2"},{"label":"NGO","value":"2"},{"label":"Netherlands","value":"2"},{"label":"Brussels","value":"1"}],"id":"state","updatedAt":1426598508}
+
+sum_cmrr: |+
+  data: {"current":null,"id":"sum_cmrr","updatedAt":1425572177}
+
+percent_cmrr: |+
+  data: {"value":45,"id":"percent_cmrr","updatedAt":1426598507}
+

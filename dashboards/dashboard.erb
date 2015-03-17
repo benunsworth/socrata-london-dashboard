@@ -1,0 +1,33 @@
+<% content_for :title do %>Socrata London Dashboard<% end %>
+<div class="gridster">
+
+  <h1>Socrata London Dashboard</h1>
+  <p style="text-align: center;"> <a style="text-decoration: underline" target="blank" href="https://ben.demo.socrata.com/d/c9c8-p6iz">find the data</a></p>
+  <br />
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Socrata EMEA Dashboard" data-text="This dashboard is powered by dashing.io and the Socrata Open Data API" data-moreinfo="Built by @benunsworth"></div>
+    </li>
+
+    <li data-row="1" data-col="2" data-sizex="1" data-sizey="1">
+      <div data-id="total_customers" data-view="Number" data-title="Total EMEA Logos" data-moreinfo="" data-prefix=""></div>
+    </li>
+
+    <li data-row="1" data-col="3" data-sizex="1" data-sizey="1">
+      <div data-id="cmrr" data-view="Number" data-title="Total CMRR" data-moreinfo="" data-prefix="$"></div>
+    </li>
+
+    <li data-row="1" data-col="4" data-sizex="1" data-sizey="1">
+      <div data-id="percent_cmrr" data-view="Meter" data-title="Percentge of CMRR Target" data-min="0" data-max="100" data-suffix="%"></div>
+    </li>
+
+    <li data-row="2" data-col="1" data-sizex="1" data-sizey="2">
+      <div data-id="state" data-view="List" data-unordered="false" data-title="Socrata EMEA Customers by Region" data-moreinfo=""></div>
+    </li>
+
+    <li data-row="2" data-col="2" data-sizex="3" data-sizey="2">
+      <div data-id="customer_map" data-view="Iframe" data-url="http://benunsworth.github.io/london_dashboard_map/" data-moreinfo="" ></div>
+    </li>
+
+  </ul>
+</div>
